@@ -72,6 +72,7 @@ git push origin [featureName or feature_name]
 Finally, your code is finished! It has been tested, it has been documented, and now it's ready to be included in the whole project. Time to open a pull request:
 
 ### Opening a Pull Request
+
 #### A) Find the completed feature's branch
 ![](./branches.png)
 
